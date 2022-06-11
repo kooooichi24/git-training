@@ -2,3 +2,4 @@ console.log("git rebase");
 console.log("git rebase -i");
 console.log("squash");
 console.log("fixup");
+console.log("drop");
